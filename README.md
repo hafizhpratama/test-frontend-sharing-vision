@@ -1,1 +1,0 @@
-# test-frontend-sharing-vision
